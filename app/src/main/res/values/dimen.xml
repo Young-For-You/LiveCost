@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_vertical">10dp</dimen>
+    <dimen name="circular_Radius">8dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="margin_vertical">10dp</dimen>
+    <dimen name="main_title_size">18sp</dimen>
+    <dimen name="main_content_size">16sp</dimen>
+    <dimen name="history_content_size">14sp</dimen>
+</resources>
